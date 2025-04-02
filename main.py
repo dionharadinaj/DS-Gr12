@@ -12,4 +12,6 @@ def print_hi(name):
 print("test");
 print("test");
 print("testi ma i miri");
+print("Ssafasf");
+print("Ssafasf");
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
