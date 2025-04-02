@@ -12,6 +12,7 @@ def print_hi(name):
 print("test");
 print("test");
 print("testi ma i miri");
+print("testi ma i miri");
 print("Ssafasf");
 print("Ssafasf");
 print("test1");
